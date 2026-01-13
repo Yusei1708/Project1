@@ -1,8 +1,8 @@
 # BÁO CÁO CHI TIẾT: XÂY DỰNG HỆ THỐNG NHẬN DIỆN CHỮ CÁI VIẾT TAY SỬ DỤNG CNN
 
 **Sinh viên thực hiện:** Vu Van Thang
-**Môi trường triển khai:** Arch Linux  
-**Ngày thực hiện:** 13/01/2025
+
+**Môi trường triển khai:** Arch Linux
 
 ---
 
