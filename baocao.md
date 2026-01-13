@@ -13,7 +13,7 @@ Nhận diện chữ viết tay (Handwriting Recognition) là một bài toán ki
 
 ### 1.2. Mục tiêu đề tài
 Xây dựng một ứng dụng Desktop hoàn chỉnh trên Linux có khả năng:
-*   Cho phép người dùng viết chữ cái in hoa (A-Z) trực tiếp lên màn hình.
+*   Cho phép người dùng viết chữ cái (A-Z) trực tiếp lên màn hình.
 *   Sử dụng mạng nơ-ron tích chập (CNN) để nhận diện với độ chính xác cao (>95%).
 *   Giải quyết các vấn đề thực tế: nét vẽ mỏng, chữ viết lệch tâm, sai hướng.
 
