@@ -225,6 +225,6 @@ early_stopping = EarlyStopping(monitor='val_loss', patience=6, restore_best_weig
 *   Chưa hỗ trợ viết liền nét (cursive) hoặc nhận diện cả từ/câu.
 
 ### 5.3. Hướng phát triển
-*   **Mở rộng bộ ký tự:** Sử dụng bộ dữ liệu **EMNIST ByClass** (62 lớp) để nhận diện cả chữ số (0-9).
+*   **Mở rộng bộ ký tự:** Sử dụng bộ dữ liệu **EMNIST ByClass** để nhận diện cả chữ số (0-9).
 *   **Nhận diện chuỗi:** Tích hợp thuật toán Segmentation (cắt ảnh) để tách và nhận diện từng chữ cái trong một từ hoặc câu hoàn chỉnh.
 *   **Đa nền tảng:** Chuyển đổi mô hình sang TensorFlow Lite để phát triển ứng dụng trên thiết bị di động (Android/iOS).
