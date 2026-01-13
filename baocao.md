@@ -222,7 +222,6 @@ early_stopping = EarlyStopping(monitor='val_loss', patience=6, restore_best_weig
 *   **Xử lý ảnh tối ưu:** Đã giải quyết triệt để các vấn đề như nét vẽ mảnh, chữ viết lệch tâm, và sai hướng xoay nhờ pipeline tiền xử lý (Center of Mass, Dilation, Transpose).
 
 ### 5.2. Hạn chế
-*   Chỉ mới hỗ trợ chữ cái in hoa (A-Z), chưa hỗ trợ chữ thường và số.
 *   Chưa hỗ trợ viết liền nét (cursive) hoặc nhận diện cả từ/câu.
 
 ### 5.3. Hướng phát triển
